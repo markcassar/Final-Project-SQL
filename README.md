@@ -47,3 +47,12 @@ In the **StartingWithData.txt** file, write 3 - 5 new questions that you could a
 
 In the **QA.txt** file, identify and describe your risk areas. Develop and execute a QA process to address them and validate the accuracy of your results. Provide the SQL queries used to execute the QA process.
 
+## Part 6: Generate the ERDLoading Your Final Table Into PostgreSQL Database
+
+Inside pgAdmin, you can generate the ERD for the database. 
+
+![](https://i.imgur.com/KxVRJD3.png)
+
+Download the image and save as Schema.png. Add this file to your repo for submission.
+
+Note: If you have created any new tables, be sure to load them into the database before printing the ERD!
