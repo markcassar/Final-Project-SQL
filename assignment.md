@@ -15,13 +15,13 @@ As always, once you have received any dataset, your first task is to orient your
 
 Apart from this, did you see any other issue that requires cleaning? Be sure to take the time upfront to address them.
 
-In your copy of the **CleaningData.txt** file, describe what issues you addressed by cleaning the data, and provide the queries you executed to clean the data.
+In your README, fill out the **Data Cleaning** section by describing what issues you addressed by cleaning the data, and providing the queries you executed to clean the data.
 
 ## Part 3: Starting with Questions
 
 This database provides data on revenue by product as well as data on how each visitor to the site interacted with the products (when they visited, where they were based, how many pages they viewed, how long they stayed on the site, and the number of transactions they entered).
  
-In the **StartingWithQuestions.txt** file there are 5 questions you need to answer using the data. For each question, be sure to include:
+In the **Questions** section of your README there are 5 questions you need to answer using the data. For each question, be sure to include:
 
 - The queries you used to answer the question
 - The answer to the question
@@ -38,14 +38,14 @@ Consider the data you have available to you.  You can use the data to:
 - compute the percentage of visitors to the site that actually makes a purchase
     
 
-In the **StartingWithData.txt** file, write 3 - 5 new questions that you could answer with this database. For each question, include
+In the **EDA** section of your README, write 3 - 5 new questions that you could answer with this database. For each question, include
 
 - The queries you used to answer the question
 - The answer to the question
 
 ## Part 5: QA Your Data
 
-In the **QA.txt** file, identify and describe your risk areas. Develop and execute a QA process to address them and validate the accuracy of your results. Provide the SQL queries used to execute the QA process.
+In the **QA** section of your README, identify and describe your risk areas. Develop and execute a QA process to address them and validate the accuracy of your results. Provide the SQL queries used to execute the QA process.
 
 ## Part 6: Generate the ERDLoading Your Final Table Into PostgreSQL Database
 
@@ -53,6 +53,6 @@ Inside pgAdmin, you can generate the ERD for the database.
 
 ![](https://i.imgur.com/KxVRJD3.png)
 
-Download the image and save as Schema.png. Add this file to your repo for submission.
+Download the image and save as Schema.png. Add this file to your repo for submission (include it in your README too! [here's how to use images in github markdown](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)).
 
 Note: If you have created any new tables, be sure to load them into the database before printing the ERD!
