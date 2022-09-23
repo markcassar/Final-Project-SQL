@@ -1,71 +1,17 @@
-### [Assignment](assignment.md)
+# Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
-## Data Cleaning
+## Project/Goals
+(fill in your description and goals here)
 
-## Questions
+## Process
+### (your step 1)
+### (your step 2)
 
-#### Question 1: Which cities and countries have the highest level of transaction revenues on the site?
+## Results
+(fill in what you found about the data.)
 
+## Challenges 
+(discuss challenges you faced in the project)
 
-**SQL Queries:**
-
-
-
-**Answer:**
-
-
-
-
-#### Question 2: What is the average number of products ordered from visitors in each city and country?
-
-
-**SQL Queries:**
-
-
-
-**Answer:**
-
-
-
-
-
-#### Question 3: Is there any pattern in the types (product categories) of products ordered from visitors in each city and country?
-
-
-**SQL Queries:**
-
-
-
-**Answer:**
-
-
-
-
-
-#### Question 4: What is the top-selling product from each city/country? Can we find any pattern worthy of noting in the products sold?
-
-
-**SQL Queries:**
-
-
-
-**Answer:**
-
-
-
-
-
-#### Question 5: Can we summarize the impact of revenue generated from each city/country?
-
-**SQL Queries:**
-
-
-
-**Answer:**
-
-
-## EDA
-
-## QA
-
-## ERD
+## Future Goals
+(what would you do if you had more time?)
