@@ -8,7 +8,7 @@
 ### (your step 2)
 
 ## Results
-(fill in what you found about the data.)
+(fill in what you discovered this data could tell you and how you used the data to answer those questions)
 
 ## Challenges 
 (discuss challenges you faced in the project)
