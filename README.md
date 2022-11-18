@@ -1,7 +1,7 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+change made using github desktop
 
 ## Process
 ### (your step 1)
